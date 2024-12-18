@@ -26,4 +26,12 @@ Technical Details:
 The system is built using Bootstrap and jQuery to provide a responsive and dynamic user interface. Bootstrap ensures that the layout is adaptable to various screen sizes, offering a mobile-friendly experience. jQuery is used for enhancing user interactions, such as sorting products, updating the cart, and refreshing the product display without reloading the page. These technologies contribute to creating an interactive, smooth, and user-friendly experience. 
 The system also optimizes the management of products using a grid layout for displaying product cards. Admins can easily manage products, categories, brands, and orders using data tables. These tables offer search, sorting, and pagination features, which are essential for efficient admin operations. The combination of Bootstrap’s layout tools and jQuery’s interactive features allows for a modern and highly functional web application.
 
+References:
+Step by Step Coding
+ChatGPT
+Blackbox AI
+php.net
+Copilot
+W3Schools
+
 
